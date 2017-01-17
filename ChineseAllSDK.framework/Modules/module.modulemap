@@ -1,0 +1,6 @@
+framework module ChineseAllSDK {
+  umbrella header "ChineseAllSDK.h"
+
+  export *
+  module * { export * }
+}
